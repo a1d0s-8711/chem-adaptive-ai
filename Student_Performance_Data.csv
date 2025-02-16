@@ -1,0 +1,6 @@
+student_id,group,age,gender,pre_test_score,post_test_score,time_per_task_min,tasks_completed,engagement_index,learning_style_cluster
+S_001,experimental,20,F,62,84,8.2,18/20,4.7,Visual_Learner
+S_002,control,21,M,58,65,12.5,15/20,3.2,N/A
+S_003,experimental,19,F,71,89,6.7,20/20,5.0,Theory_Learner
+S_004,experimental,22,M,65,81,9.1,17/20,4.5,Mixed_Learner
+S_005,control,20,F,63,68,14.3,13/20,2.8,N/A
