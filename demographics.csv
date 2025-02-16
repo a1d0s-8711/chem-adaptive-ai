@@ -1,0 +1,7 @@
+category,subcategory,experimental_group(n=150),control_group(n=150)
+age,mean ± SD,20.1 ± 1.2,20.3 ± 1.4
+gender,male,72 (48.0%),69 (46.0%)
+gender,female,78 (52.0%),81 (54.0%)
+edtech_experience,novice(<1 year),98 (65.3%),93 (62.0%)
+edtech_experience,intermediate(1-3 years),37 (24.7%),42 (28.0%)
+edtech_experience,advanced(>3 years),15 (10.0%),15 (10.0%)

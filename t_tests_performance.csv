@@ -1,0 +1,4 @@
+metric,experimental_mean ± SD,control_mean ± SD,t_stat,df,p,cohen_d
+FinalExam,82.4 ± 6.1,69.8 ± 8.3,7.92,298,<0.001,0.86
+TimePerTask(min),14.2 ± 3.5,18.3 ± 4.1,-4.15,298,<0.001,0.62
+TaskCompletion,93.7% ± 5.2,71.9% ± 8.7,6.34,298,<0.001,0.71

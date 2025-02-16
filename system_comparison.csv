@@ -1,0 +1,4 @@
+system,accuracy(%),f1_score,auc,doi
+Proposed System,89.2 ± 1.2,0.88 ± 0.02,0.91 ± 0.01,10.5281/zenodo.XXXXX
+ALEKS (Chemistry),75.3 ± 2.8,0.71 ± 0.03,0.78 ± 0.02,10.1021/acs.jchemed.0c01234
+Khan Academy (STEM),81.1 ± 1.9,0.79 ± 0.02,0.83 ± 0.01,10.1145/3587528.3587555
