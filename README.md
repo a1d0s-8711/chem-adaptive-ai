@@ -8,6 +8,6 @@
 
 ## Установка
 ```bash
-git clone https://github.com/yourusername/chem-adaptive-ai.git
+git clone https://github.com/a1d0s-8711/chem-adaptive-ai.git
 cd chem-adaptive-ai
 pip install -r requirements.txt
